@@ -113,7 +113,7 @@
         ・AB テストなどで機械学習の成果が出ていることを確認
         ・機械学習のパラメータの調整や、プログラム修正によるチューニング
 
-   ![機械学習プロジェクト全体像.png](quiver-image-url/61BA2D6650EE166BFF4B5D291BCDFD0D.png =567x248)
+   ![機械学習プロジェクト全体像.png](https://github.com/smoto-shei/ReadmeImages/blob/master/MachineLearning/MLproject_overview.png)
 
 # 3. 事前検証フェーズについて深掘り
 
@@ -248,7 +248,7 @@
         X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0,3, random_state=0)
         ```
 
-        ![精度検証データの流れ-1.png](quiver-image-url/B990E4E8EF327478CCF774E3B1632C12.png =434x496)
+        ![精度検証データの流れ-1.png](https://github.com/smoto-shei/ReadmeImages/blob/master/MachineLearning/a_flow_data.png)
 
    4. ### 結果を分析する
 
@@ -266,8 +266,8 @@
         3. 再現率 (recall)
         4. F 値 (f measure)
 
-      ![accuracyとか.png](quiver-image-url/BD9886908B9F925A79D2D634FFEC6828.png =567x362)
-      ![F値-2.png](quiver-image-url/B519C850AF26ABC037F14700832C70FF.png =567x243)
+      ![accuracyとか.png](https://github.com/smoto-shei/ReadmeImages/blob/master/MachineLearning/Confusion_matrix.png)
+      ![F値-2.png](https://github.com/smoto-shei/ReadmeImages/blob/master/MachineLearning/f_value.png)
 
       ### 結果が何をもたらすか考える
 
